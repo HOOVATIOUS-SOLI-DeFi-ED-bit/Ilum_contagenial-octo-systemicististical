@@ -8,7 +8,10 @@ License: MIT License
 
 Description:
 
-This software integrates real-time data analysis with blockchain technology to automate trading decisions and manage profits securely. The Python component handles data acquisition and analysis, while the Solidity smart contract ensures transparent and tamper-proof profit management.
+This software integrates real-time data analysis with blockchain technology
+to automate trading decisions and manage profits securely. 
+The Python component handles data acquisition and analysis, 
+while the Solidity smart contract ensures transparent and tamper-proof profit management.
 
 Usage Rights:
 	•	Commercial and personal use permitted.
@@ -17,4 +20,6 @@ Usage Rights:
 
 Registration:
 
-This software is registered under the MIT License, granting the owner full rights to use, modify, and distribute the software in compliance with the license terms.
+This software is registered under the MIT License, 
+granting the owner full rights to use, modify, and distribute the software in 
+compliance with the license terms.
